@@ -12,3 +12,5 @@ Implement solutions for optimizing sales strategies and performance.
 📩 Open to connecting with professionals in data analytics and discussing further insights from this project.
 
 Project Link-https://www.linkedin.com/posts/shivam-kesarwani-179882295_dataanalysis-powerbi-salesanalysis-activity-7126551908089028608-xee-?utm_source=share&utm_medium=member_desktop
+
+![Screenshot (1721)](https://github.com/shivam12345kesarwaniS/Sales_Data_Analysis_Using_PowerBI/assets/138551775/e4446242-823f-4f98-9ff4-97c99005fb3f)
